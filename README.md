@@ -1,3 +1,4 @@
 # Blinkit-dashboard
-              <a href="https://github.com/shivansh7781/Blinkit-dashboard" class="block-20 zoom-effect" style="background-image: url('C:\Users\SHIVANSH\Download blinkit_dashboard.png');">
+          ![image](https://github.com/user-attachments/assets/ae860df2-5dbe-4bb5-b767-0660306aa943)
+
 
