@@ -26,6 +26,13 @@ This document outlines the steps to import, clean, and visualize data in Power B
    - Handle missing values (e.g., fill in, remove rows).
    - Normalize data formats (e.g., date formats, text cases).
    - Merge and split columns as required.
+  
+
+
+
+
+![image](https://github.com/user-attachments/assets/25e8effb-7352-474f-93e5-a3dff144faeb)
+
 
 2. **Data Transformation:**
    - Create calculated columns and measures if necessary.
